@@ -54,8 +54,16 @@ npm run dev
 cd client
 npm install
 npm start
+
 Configure MongoDB
 
-Use MongoDB Atlas connection string in backend/src/server.js
+Use MongoDB Atlas connection string in backend/src/server.js.
+
+🌐 Live Demo
+🔗 https://mern-thinkboard-ey8w.onrender.com
+🖥️ API Hosted on Render
+
+<img width="1914" height="828" alt="image" src="https://github.com/user-attachments/assets/ad663957-c8ee-47e9-88b5-918aae7fab3b" />
+
 
 

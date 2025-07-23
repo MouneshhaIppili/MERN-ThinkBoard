@@ -41,7 +41,7 @@ App.js
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/mern-thinkboard.git
+   git clone https://github.com/MouneshhaIppili/MERN-ThinkBoard.git
    cd mern-thinkboard
 Install Dependencies
 
